@@ -1,0 +1,9 @@
+p {
+  color:black;
+  opacity:0;
+}
+
+p:havoer {
+  color:black;
+  opacity:1;
+}
